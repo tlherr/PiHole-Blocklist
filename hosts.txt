@@ -1,2 +1,3 @@
-i127.0.0.1 log-1.samsungacr.com
+127.0.0.1 log-1.samsungacr.com
 127.0.0.1 log-2.samsungacr.com
+127.0.0.1 acr0.samsungcloudsolution.com
